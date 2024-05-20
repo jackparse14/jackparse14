@@ -13,28 +13,10 @@ A Levels in Maths(A), Art(C) and Business(C)
 
 ## Social Media/Links:
 
-<dl>
-  <dt>
-     <a href="https://jackparsonsportfolio.co.uk/">
-        <img src="assets/portfolio.svg" alt="Portfolio Website">
-     </a>
-  </dt>
-  <dt>
-     <a href="https://www.linkedin.com/in/jack-parsons-in/">
-        <img src="assets/linkedin.svg" alt="LinkedIn">
-     </a>
-  </dt>
-  <dt>
-     <a href="https://twitter.com/jackparse14">
-        <img src="assets/twitter.svg" alt="Twitter">
-     </a>
-  </dt>
-  <dt>
-     <a href="https://www.instagram.com/jackparsecompsci/">
-        <img src="assets/instagram.svg" alt="Instagram">
-     </a>
-  </dt>
-</dl>
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff&labelColor=%23303030)](https://jackparsonsportfolio.co.uk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=%23ffffff&labelColor=%23303030)](https://www.linkedin.com/in/jack-parsons-in/)
+[![Twitter/X](https://img.shields.io/badge/Twitter%20/%20X-blue?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23303030)](https://twitter.com/jackparse14)
+[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=%23ffffff&labelColor=%23303030)](https://www.instagram.com/jackparsecompsci/)
 
 ## Tech Stack:
 
