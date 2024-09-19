@@ -3,7 +3,7 @@
 ## Who Am I?
 
 <p>I am a Software Developer who has just finished undertaking a foundation software development course with <a href="https://www.foundersandcoders.com/">Founders and Coders</a>.</p>
-<p>I have a passion for Video Game and Website creation, at the moment I am busy learning the ins and outs of TypeScript, SQL and React whilst creating a sports web app. </p>
+<p>I have a passion for Video Game and Website creation, at the moment I am busy learning the ins and outs of Dart and Flutter whilst also creating a sports web app with React and Next.js</p>
 <p>For anyone looking to work with me or is interested in what I am doing you can contact me at my email address at <a href="mailto: jackparse14@hotmail.co.uk">jackparse14@hotmail.co.uk.</a></p>
 
 ## What Qualifications Do I Have?
